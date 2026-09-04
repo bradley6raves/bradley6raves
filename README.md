@@ -3,7 +3,7 @@
 Current Mechanical Engineering undergrad student looking to learn some programming languages and get into Linux ricing. Future Aerospace Engineering graduate student.
 </p> 
 
-I am currently working on optimizing my workflow by making my own Linux rice (Mint), and by automatically uploading Rocketbook scans into Obsidian.
+I am currently working on optimizing my workflow by making my own basic Linux rice (I use Mint, of course), and by automatically uploading Rocketbook scans into Obsidian.
 
 
 <li>🔭 I’m currently working on ...</li>
